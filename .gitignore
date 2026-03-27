@@ -115,6 +115,7 @@ ENV/
 
 # detection rules
 .detection-rules-cfg.*
+.detection-rules-cfg.json
 releases/
 collections/
 enriched-rule-indexes/
@@ -122,3 +123,4 @@ exports/
 ML-models/
 surveys/
 machine-learning/
+

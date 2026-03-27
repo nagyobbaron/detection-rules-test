@@ -13,7 +13,7 @@ PIP := $(VENV_BIN)/pip
 all: release
 
 $(VENV):
-	python3.12 -m venv $(VENV)
+	python3 -m venv $(VENV)
 
 .PHONY: clean
 clean:

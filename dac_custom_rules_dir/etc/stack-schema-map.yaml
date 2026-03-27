@@ -1,0 +1,6 @@
+---
+9.4.0:
+  13a561bf-c964-44b9-b07a-6af513d0407c: /home/dexel/ELASTIC/detection-rules-test/dac_custom_rules_dir/etc/schemas/auto_gen.json
+  beats: 9.3.1
+  ecs: 9.3.0
+  endgame: 8.4.0
